@@ -12,11 +12,6 @@ services:
         fromDatabase:
           name: directus
           property: connectionString    
-      - key: PORT
-        fromService:
-          type: web
-          name: directus
-          property: port
       - key: KEY
         generateValue: true
       - key: SECRET
