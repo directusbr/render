@@ -28,6 +28,7 @@ services:
 
 databases:
   - name: directus
+    plan: free
     databaseName: directus
     user: directus
     ipAllowList: []
