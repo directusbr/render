@@ -2,7 +2,9 @@
 ## Deploy Simplificado com Render.com
 
 Com o Directus, simplificamos o processo de implantação para você. Nosso botão de deploy rápido no Render.com permite que você inicie um ambiente Directus totalmente funcional com apenas um clique. Não é necessário configuração complicada ou conhecimento avançado em hospedagem. Com essa facilidade, você pode começar a gerenciar seu conteúdo e dados de forma eficaz, sem se preocupar com as complexidades da configuração do servidor. Economize tempo e inicie seu projeto Directus de forma rápida e fácil com o nosso botão de deploy no Render.com.
+
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/directusbr/render/)
+
 ## O que é o Directus e para que ele serve?
 
 O **Directus** é uma ferramenta que ajuda a gerenciar informações e conteúdo em um site, aplicativo ou projeto online. É como um sistema organizado que permite que você insira, edite e organize informações facilmente, mesmo que você não seja um programador.
@@ -19,7 +21,7 @@ O **Directus** serve para:
 
 4. **Criar Formulários:** Se você precisa de formulários para coletar informações dos visitantes do seu site, o Directus facilita a criação deles.
 
-5. **Integrar com Outras Ferramentas:** Mesmo que você não seja um expert em API, o Directus permite conectar seu site ou aplicativo com outras ferramentas, como redes sociais ou bancos de dados externos.
+5. **Integrar com Outras Ferramentas:** O Directus é uma plataforma altamente versátil que possibilita a integração perfeita do seu site ou aplicativo com uma variedade de ferramentas e serviços, incluindo sistemas de autenticação de redes sociais e bancos de dados externos. 
 
 6. **Manter um Histórico:** O Directus registra todas as mudanças que você faz, então se algo der errado, você pode voltar atrás facilmente.
 
