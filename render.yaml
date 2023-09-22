@@ -21,7 +21,7 @@ services:
         generateValue: true
       - key: SECRET
         generateValue: true
-      - key: ADMIN_EMAIL:
+      - key: ADMIN_EMAIL
         value: admin@example.com
       - key: ADMIN_PASSWORD
         generateValue: true
