@@ -1,0 +1,33 @@
+services:
+  - type: web
+    name: directus
+    runtime: image
+    autoDeploy: false
+    image:
+      url: docker.io/directus/directus:latest
+    plan: free
+    healthCheckPath: /server/health
+    envVars:
+      - key: DB_CONNECTION_STRING
+        fromDatabase:
+          name: directus
+          property: connectionString    
+      - key: PORT
+        fromService:
+          type: web
+          name: directus
+          property: port
+      - key: KEY
+        generateValue: true
+      - key: SECRET
+        generateValue: true
+      - key: ADMIN_EMAIL:
+        value: admin@example.com
+      - key: ADMIN_PASSWORD
+        generateValue: true
+
+databases:
+  - name: directus
+    databaseName: directus
+    user: directus
+    ipAllowList: []
