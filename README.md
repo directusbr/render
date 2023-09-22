@@ -1,4 +1,4 @@
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/directusbr/render/)
+![DirectusBR](https://discord.com/api/guilds/1147179893969395872/widget.png?style=banner2)
 ## Deploy Simplificado com Render.com
 
 Com o Directus, simplificamos o processo de implantação para você. Nosso botão de deploy rápido no Render.com permite que você inicie um ambiente Directus totalmente funcional com apenas um clique. Não é necessário configuração complicada ou conhecimento avançado em hospedagem. Com essa facilidade, você pode começar a gerenciar seu conteúdo e dados de forma eficaz, sem se preocupar com as complexidades da configuração do servidor. Economize tempo e inicie seu projeto Directus de forma rápida e fácil com o nosso botão de deploy no Render.com.
