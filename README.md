@@ -5,6 +5,9 @@ Com o Directus, simplificamos o processo de implantação para você. Nosso bot�
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/directusbr/render/)
 
+[Assista ao vídeo no YouTube](https://youtu.be/Q-vpcxpnKog)
+
+
 ## O que é o Directus e para que ele serve?
 
 O **Directus** é uma ferramenta que ajuda a gerenciar informações e conteúdo em um site, aplicativo ou projeto online. É como um sistema organizado que permite que você insira, edite e organize informações facilmente, mesmo que você não seja um programador.
